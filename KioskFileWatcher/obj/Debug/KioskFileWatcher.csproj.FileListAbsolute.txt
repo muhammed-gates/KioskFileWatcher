@@ -1,0 +1,13 @@
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\obj\Debug\KioskFileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\KioskFileWatcher.exe.config
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\KioskFileWatcher.exe
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\KioskFileWatcher.pdb
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\Dapper.dll
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\NLog.dll
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\Dapper.xml
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\bin\Debug\NLog.xml
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\obj\Debug\KioskFileWatcher.exe
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\obj\Debug\KioskFileWatcher.pdb
+C:\Users\USER\source\Workspaces\KioskFileWatcher\DigiDocFileWatcher\obj\Debug\KioskFileWatcher.csproj.AssemblyReference.cache

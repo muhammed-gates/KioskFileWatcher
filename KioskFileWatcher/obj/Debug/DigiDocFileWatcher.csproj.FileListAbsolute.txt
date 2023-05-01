@@ -1,0 +1,13 @@
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\DigiDocFileWatcher.exe.config
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\DigiDocFileWatcher.exe
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\DigiDocFileWatcher.pdb
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\obj\Debug\DigiDocFileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\obj\Debug\DigiDocFileWatcher.exe
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\obj\Debug\DigiDocFileWatcher.pdb
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\Newtonsoft.Json.dll
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\Newtonsoft.Json.xml
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\Dapper.dll
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\Dapper.xml
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\NLog.dll
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Debug\NLog.xml
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\obj\Debug\DigiDocFileWatcher.csproj.AssemblyReference.cache

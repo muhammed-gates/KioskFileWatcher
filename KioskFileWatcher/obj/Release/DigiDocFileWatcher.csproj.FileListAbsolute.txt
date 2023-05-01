@@ -1,0 +1,13 @@
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\DigiDocFileWatcher.exe.config
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\DigiDocFileWatcher.exe
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\DigiDocFileWatcher.pdb
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\Newtonsoft.Json.dll
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\Newtonsoft.Json.xml
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\obj\Release\DigiDocFileWatcher.csproj.CoreCompileInputs.cache
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\obj\Release\DigiDocFileWatcher.csproj.CopyComplete
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\obj\Release\DigiDocFileWatcher.exe
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\obj\Release\DigiDocFileWatcher.pdb
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\Dapper.dll
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\Dapper.xml
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\NLog.dll
+C:\Users\USER\source\Workspaces\DigiDocFileWatcher\DigiDocFileWatcher\bin\Release\NLog.xml

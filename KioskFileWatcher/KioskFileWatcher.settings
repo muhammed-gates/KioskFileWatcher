@@ -1,0 +1,18 @@
+﻿<?xml version='1.0' encoding='utf-8'?>
+<SettingsFile xmlns="http://schemas.microsoft.com/VisualStudio/2004/01/settings" CurrentProfile="(Default)" GeneratedClassNamespace="KioskFileWatcher" GeneratedClassName="KioskFileWatcher">
+  <Profiles />
+  <Settings>
+    <Setting Name="FolderLocation" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">D:\PrintFIles</Value>
+    </Setting>
+    <Setting Name="WatcherDelay" Type="System.Int32" Scope="Application">
+      <Value Profile="(Default)">500</Value>
+    </Setting>
+    <Setting Name="DateFormat" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">dd-MM-yy</Value>
+    </Setting>
+    <Setting Name="WEBAPIURL" Type="System.String" Scope="Application">
+      <Value Profile="(Default)">http://localhost:8086/api</Value>
+    </Setting>
+  </Settings>
+</SettingsFile>
